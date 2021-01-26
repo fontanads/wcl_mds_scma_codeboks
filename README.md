@@ -1,6 +1,6 @@
 # Media for the WCL paper "A Multistage Method for SCMA Codebook Design Based on MDS Codes"
 
-:microscope: The published paper can be found on [IEEE Wireless Communication Letters vol. 8 no.6](URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8752064&isnumber=8926557).
+:microscope: The published paper can be found on [IEEE Wireless Communication Letters vol. 8 no.6](https://ieeexplore.ieee.org/document/8752064).
 
 :student: This work is part of my thesis "[Strategies for Multistage Design of Sparse Code Multiple Access Systems](http://tede.ufsc.br/teses/PEEL1927-T.pdf)".
 
