@@ -4,7 +4,7 @@
 
 :student: This work is part of my thesis "[Strategies for Multistage Design of Sparse Code Multiple Access Systems](http://tede.ufsc.br/teses/PEEL1927-T.pdf)".
 
-Contents of this repositorie:
+Contents of this repository:
 - [Binary resource allocation matrices (F)](./F_matrices/)
 - [Multidimensional Modulations (M-ary, N-dimensional)](./codebooks/),  (X: N x M complex matrices)
 - PDFs with [illustration of binary labelings of the codebooks](./binary_labellings/)
